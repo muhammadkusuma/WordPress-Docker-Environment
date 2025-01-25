@@ -21,8 +21,8 @@ A simple setup to run WordPress locally using Docker and Docker Compose with a c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/muhammadkusuma/wordpress.git
-cd wordpress
+git clone https://github.com/muhammadkusuma/WordPress-Docker-Environment.git
+cd WordPress-Docker-Environment
 ```
 
 ### 2. Edit Local Hosts File
